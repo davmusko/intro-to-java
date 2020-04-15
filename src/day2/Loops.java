@@ -20,7 +20,8 @@ public class Loops {
 //			i++;
 //		}
 		
-		for(int i = 0; i < 100;i++) {
+		String myName = "Daasdfvid";
+		for(int i = 0; i < myName.length(); i++) {
 			System.out.println(i);
 		}
 		
